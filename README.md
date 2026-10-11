@@ -149,9 +149,7 @@ The notebook produces 11 chart files in `figures/`, for example:
 | Confusion matrices | `figures/10_confusion_matrices.png` |
 | Feature importance | `figures/11_feature_importance.png` |
 
-![Profit by product](figures/02_profit_by_product.png)
 
-![Revenue, waste and profit by category](figures/03_category_revenue_waste_profit.png)
 
 ## 13. Limitations
 
@@ -174,4 +172,4 @@ The notebook produces 11 chart files in `figures/`, for example:
 **Sneha Yadav**
 IBM Internship Project
 
-*This README describes an internship assignment. It does not imply endorsement or approval by IBM.*
+
