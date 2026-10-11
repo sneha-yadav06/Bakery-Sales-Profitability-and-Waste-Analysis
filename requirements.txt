@@ -1,0 +1,19 @@
+# Bakery Sales, Waste and Profitability Analysis - Python dependencies
+#
+# Install (from the project folder):
+#   python -m venv venv
+#   source venv/bin/activate          # Windows: venv\Scripts\activate
+#   pip install -r requirements.txt
+#
+# Tested with Python 3.12, pandas 3.0.2, numpy 2.4.4, matplotlib 3.10.8,
+# seaborn 0.13.2, scikit-learn 1.8.0, scipy 1.17.1, openpyxl 3.1.5.
+# The minimum versions below are the oldest releases that provide the features used.
+
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.4
+scipy>=1.11
+openpyxl>=3.1      # lets pandas read the .xlsx dataset
+jupyter>=1.0       # Jupyter Notebook / JupyterLab (also installs IPython)
